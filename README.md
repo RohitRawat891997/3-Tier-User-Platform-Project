@@ -1,3 +1,7 @@
+# ELK Flow Diagram
+
+{diagram}(https://github.com/RohitRawat891997/3-Tier-User-Platform-Project/blob/qa/EKS-Flow-Diagram-DevOpsShack.png)
+
 ## MySQL on Amazon EKS with AWS Secrets Manager, External Secrets Operator (ESO), and EBS Storage
 
 This guide explains how to:
