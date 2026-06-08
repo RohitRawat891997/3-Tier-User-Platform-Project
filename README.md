@@ -418,8 +418,8 @@ OIDC completely replaces them.
 ```bash
 kubectl create secret docker-registry regcred \
   --docker-username=devopsshack \
-  --docker-password='Dockerhub@888' \
-  --docker-email=devopsshack2025@gmail.com \
+  --docker-password='test@123' \
+  --docker-email=abc@gmail.com \
   -n prod
 ```
 
